@@ -1,0 +1,7 @@
+{
+  "name": "clonemanager31",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
